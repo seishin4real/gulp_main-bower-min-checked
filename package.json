@@ -1,0 +1,31 @@
+{
+  "name": "main-bower-min-checked",
+  "version": "1.0.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seishin4real/gulp_main-bower-min-checked.git"
+  },
+  "description": "Get bower main files in both normal and in minified formats",
+  "main": "index.js",
+  "keywords": [
+    "gulp",
+    "bower",
+    "minified"
+  ],
+  "author": {
+    "name": "Seishin"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "main-bower-files": "^2.5.0"
+  },
+  "maintainers": [
+    {
+      "name": "Seishin",
+      "email": "seishin4real@gmail.com"
+    }
+  ],
+  "directories": {}
+}
